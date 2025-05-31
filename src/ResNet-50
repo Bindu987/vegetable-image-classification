@@ -6,7 +6,6 @@ imds = imageDatastore(datasetPath, 'IncludeSubfolders', true, 'LabelSource', 'fo
 imds = splitEachLabel(imds, 1000, 'randomized');
 [imdsTrain, imdsVal] = splitEachLabel(imds, 0.8, 'randomized');
 numClasses = numel(categories(imdsTrain.Labels));
-19
 net = resnet50;
 inputSize = net.Layers(1).InputSize;
 lgraph = layerGraph(net);
