@@ -77,7 +77,7 @@ vegetable-image-classification/
 │   ├── Inception-v3/
 │   └── YOLOv4/
 │
-├── dataset/         # (Optional) Link or sample annotations
+├── dataset/        
 │
 └── README.md
 ```
