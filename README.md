@@ -90,6 +90,7 @@ vegetable-image-classification/
 - SqueezeNet and ResNet-50 performed comparably with 99.94%.
 - YOLOv4 achieved **Average Precision (AP) = 1.0** on test set.
 - All pretrained models demonstrated better convergence and generalization than the custom DCNN.
+- In **results_and_project_report doc**, could see results and confusion matrices and data analysis.
 
 ---
 
