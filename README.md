@@ -1,5 +1,4 @@
 # vegetable-image-classification
-
 🥦 Vegetable Image Classification and Detection using Deep Learning
 
 This project presents a comparative study of deep learning-based models for classifying and detecting vegetables in images. Implemented in **MATLAB**, the models are trained on a curated dataset of 9 vegetable categories using both **custom CNN architectures** and **pretrained transfer learning models**. Real-time object detection is implemented using **YOLOv4**.
