@@ -4,7 +4,6 @@ close all;
 datasetPath = 'C:\Users\mm\Desktop\Vegetable Images';
 imds = imageDatastore(datasetPath, 'IncludeSubfolders', true, 'LabelSource', 'foldernames');
 allowedClasses = ["Bottle_Gourd", "Brinjal", "Broccoli", "Carrot", "Cauliflower", "Cucumber", "Potato",
-20
 "Radish", "Pumpkin"];
 imds = subset(imds, ismember(imds.Labels, allowedClasses));
 imds = splitEachLabel(imds, 1000, 'randomized');
