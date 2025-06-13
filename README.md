@@ -108,10 +108,7 @@ vegetable-image-classification/
 - **Bindu Sree Chandu**  
   Department of Electrical and Computer Engineering  
   California State University, Fresno  
-
-- **Govardhana Kondapaturi**  
-  Department of Electrical and Computer Engineering  
-  California State University, Fresno  
+ 
 
 ---
 
