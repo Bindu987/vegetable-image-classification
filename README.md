@@ -112,9 +112,7 @@ vegetable-image-classification/
 
 ---
 
-## 📄 License
-
-This project is for academic purposes. If you wish to reuse or adapt it, please credit the authors.
+## This project is for academic purposes.
 
 ---
 
